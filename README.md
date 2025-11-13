@@ -126,15 +126,3 @@ The frontend will run on `http://localhost:5173`
 - ✅ Protected routes
 
 ## Environment Variables
-
-### Backend (.env)
-```
-DATABASE_URL="file:./dev.db"
-JWT_SECRET="your-super-secret-jwt-key-change-in-production"
-PORT=4000
-```
-
-## License
-
-ISC
-
